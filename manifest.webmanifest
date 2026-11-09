@@ -6,5 +6,12 @@
   "background_color": "#FBF3E8",
   "theme_color": "#B5482A",
   "lang": "pt-BR",
-  "icons": [{ "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "description": "Projeto: Desenvolvimento Front-end — desenvolvido por Aliny Reis Ramos, RU 5071671"
 }

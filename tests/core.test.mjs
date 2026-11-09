@@ -1,3 +1,8 @@
+/*
+ * Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+ * Autora: Aliny Reis Ramos — RU 5071671
+ * Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
+ */
 // Testes unitários das regras de negócio. Rodar com: npm test  (ou: node --test tests/*.test.mjs)
 import { test } from 'node:test';
 import assert from 'node:assert/strict';

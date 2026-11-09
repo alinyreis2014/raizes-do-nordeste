@@ -1,3 +1,8 @@
+/*
+ * Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+ * Autora: Aliny Reis Ramos — RU 5071671
+ * Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
+ */
 /**
  * payment.js — Simulação de um provedor de pagamento EXTERNO (gateway).
  *

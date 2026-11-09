@@ -1,3 +1,6 @@
+# Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+# Autora: Aliny Reis Ramos — RU 5071671
+# Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_pdf as b

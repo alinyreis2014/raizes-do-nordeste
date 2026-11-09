@@ -10,5 +10,6 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "author": "Aliny Reis Ramos — RU 5071671 (CST em Análise e Desenvolvimento de Sistemas — UNINTER)"
 }

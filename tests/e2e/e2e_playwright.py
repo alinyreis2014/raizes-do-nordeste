@@ -1,3 +1,6 @@
+# Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+# Autora: Aliny Reis Ramos — RU 5071671
+# Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
 """
 Teste ponta a ponta (E2E) com Playwright: executa os fluxos principais e salva prints.
 

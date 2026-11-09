@@ -1,3 +1,8 @@
+/*
+ * Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+ * Autora: Aliny Reis Ramos — RU 5071671
+ * Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
+ */
 /**
  * store.js — Estado da aplicação com persistência local.
  * Simula o banco de dados do back-end usando localStorage (com fallback em memória).

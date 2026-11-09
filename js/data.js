@@ -1,3 +1,8 @@
+/*
+ * Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+ * Autora: Aliny Reis Ramos — RU 5071671
+ * Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
+ */
 /**
  * data.js — Dados simulados (mock) que substituem a API do back-end.
  * Em produção, estes dados viriam de endpoints como GET /units e GET /units/:id/menu.

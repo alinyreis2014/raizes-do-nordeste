@@ -1,3 +1,8 @@
+/*
+ * Projeto: Desenvolvimento Front-end — Rede Raízes do Nordeste
+ * Autora: Aliny Reis Ramos — RU 5071671
+ * Curso: CST em Análise e Desenvolvimento de Sistemas — UNINTER
+ */
 /**
  * core.js — Regras de negócio puras (sem DOM).
  * Por não depender do navegador, este módulo é testado com `node --test`.
