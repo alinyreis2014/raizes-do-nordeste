@@ -2,7 +2,7 @@
 
 ## 4.1 Wireframes de baixa fidelidade
 
-Os wireframes foram feitos **antes** do código para validar a arquitetura de informação (o que aparece em cada tela e em que ordem). Fonte editável: [`wireframes/index.html`](wireframes/index.html), que pode ser aberta no navegador.
+Os wireframes foram feitos **antes** do código para validar a arquitetura de informação (o que aparece em cada tela e em que ordem). Eles também podem ser abertos no navegador, no computador ou no celular, em: https://alinyreis2014.github.io/raizes-do-nordeste/docs/wireframes/
 
 | Fluxo | Telas | Imagem |
 |---|---|---|

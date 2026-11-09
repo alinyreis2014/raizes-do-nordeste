@@ -7,6 +7,7 @@ Projeto da **Trilha Front-End** (estudo de caso *Rede Raízes do Nordeste*): int
 | | Link |
 |---|---|
 | 🌐 **Site publicado** | `https://alinyreis2014.github.io/raizes-do-nordeste/` |
+| 🧩 **Wireframes** | `https://alinyreis2014.github.io/raizes-do-nordeste/docs/wireframes/` |
 | 📦 **Repositório** | `https://github.com/alinyreis2014/raizes-do-nordeste` |
 
 ---

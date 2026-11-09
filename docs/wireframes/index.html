@@ -51,9 +51,25 @@
   .switch::after { content: ""; position: absolute; width: 8px; height: 8px; border-radius: 50%; background: var(--ink); top: 0.5px; left: 1px; }
   .switch.on::after { left: 10px; }
   .chk { width: 10px; height: 10px; border: 1.5px solid var(--ink); flex: none; }
+  .top { display: flex; flex-wrap: wrap; gap: 6px 16px; justify-content: space-between; align-items: center; font-family: system-ui, sans-serif; font-size: 13px; margin: -24px -24px 20px; padding: 10px 24px; background: #2B1D14; color: #E9DCCB; }
+  .top a { color: #F2B544; font-weight: bold; text-decoration: none; }
+  .desk-wrap { max-width: 100%; }
+  /* celular e tablet: telas lado a lado viram coluna e as telas de desktop são reduzidas */
+  @media (max-width: 820px) {
+    body { padding: 14px; }
+    .top { margin: -14px -14px 16px; padding: 10px 14px; }
+    h1 { font-size: 19px; }
+    .row { flex-direction: column; align-items: center; gap: 22px; }
+    .screen { align-items: center; }
+    .note { max-width: 300px; text-align: center; }
+    .desk { zoom: 0.46; }
+    .desk + .note { max-width: 330px; }
+  }
+  @media (max-width: 360px) { .desk { zoom: 0.4; } }
 </style>
 </head>
 <body>
+<nav class="top"><a href="../../">← Voltar ao site</a><span>Projeto: Desenvolvimento Front-end · Aliny Reis Ramos · RU 5071671</span></nav>
 <h1>Wireframes de baixa fidelidade — Raízes do Nordeste</h1>
 <p class="lead">Validam a arquitetura de informação e a posição dos elementos. Sem cores nem imagens finais: caixas com "X" = imagem; barras cinza = texto. Abordagem mobile-first: o celular foi desenhado primeiro.</p>
 

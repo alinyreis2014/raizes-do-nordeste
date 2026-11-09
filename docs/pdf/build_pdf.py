@@ -145,9 +145,7 @@ uma equipe de produto real.</p>
         '[[FIG:wireframes/fluxo-2.png|Wireframes mobile — pagamento e acompanhamento (M5 a M8)]]', '',
         '[[FIG:wireframes/fluxo-3.png|Wireframes — fidelidade, privacidade e totem (M9, M10 e T1)]]', '',
         '[[FIG:wireframes/fluxo-4.png|Wireframes desktop — cardápio, checkout e painel da cozinha (D1 a D3)]]', '', '']), md4, flags=re.S)
-    md4 = md4.replace('Fonte editável: wireframes/index.html, que pode ser aberta no navegador.',
-                      'A fonte editável está no repositório, em docs/wireframes/index.html.')
-    m3 += '<h2>Wireframes e interface</h2>' + to_html(md4, 1)
+    m3 += '<h2>Wireframes e interface</h2>' + autolink(to_html(md4, 1))
     parts.append(m3)
 
     # 4 LGPD
